@@ -35,9 +35,9 @@
     <description>Couchbase client provider using Couchbase SDK 2.</description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/nosql/couchbase-client</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/nosql/couchbase-client</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/contrib/nosql/couchbase-client</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-nosql-couchbase-client.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-nosql-couchbase-client.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-nosql-couchbase-client.git</url>
     </scm>
 
     <properties>
